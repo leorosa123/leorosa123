@@ -23,5 +23,7 @@
  <a href = "mailto:leocamargorosa12@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" width="70px" target="_blank"></a>
 
  <a href="https://www.linkedin.com/in/l%C3%A9o-rosa-220367234/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="90" target="_blank"></a> 
+  
+   ![Snake animation](https://github.com/leorosa123/leorosa123/blob/output/github-contribution-grid-snake.svg)
 
 </div>
