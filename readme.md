@@ -1,4 +1,4 @@
-## Olá!! Sou o Léo Rosa
+## Hi!! I'am Léo Rosa
 
 <div>
   <a href="https://github.com/leorosa123">
