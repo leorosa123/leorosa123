@@ -1,19 +1,40 @@
-## Hi!! I'am Léo Rosa
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=63abe0&lines=young+programmer+,+welcome)](https://git.io/typing-svg)
 
 
-<div>
-  <a href="https://github.com/leorosa123">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=leorosa123&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leorosa123&layout=compact&langs_count=7&theme=codeSTACKr"/>
+## ⚙️ &nbsp;GitHub Analytics
+<p align="center">
+ 
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=leorosa123&show_icons=true&theme=tokyonight" alt="Léo Rosa Status"/>
+ <br>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leorosa123&layout=compact&theme=tokyonight" alt="Léo Rosa most languages"/>
+</p>
+
+## 🛠 &nbsp;Tech Stack
+
+![html5](https://img.shields.io/badge/-html5-05122A?style=flat&logo=html5)&nbsp;
+![css3](https://img.shields.io/badge/-css3-05122A?style=flat&logo=css3)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
+![python](https://img.shields.io/badge/-python-05122A?style=flat&logo=python)&nbsp;
+![php](https://img.shields.io/badge/-php-05122A?style=flat&logo=php)&nbsp;
+![mysql](https://img.shields.io/badge/-mysql-05122A?style=flat&logo=mysql)&nbsp;
+![git](https://img.shields.io/badge/-git-05122A?style=flat&logo=git)&nbsp;
+<br><br>
+
+
+
+## 🧑‍ &nbsp;Social Mídia
+<div align="center">
+<img width="400em" src="https://github-readme-twitter-gazf.vercel.app/api?id=rosa21_leo&layout=wide&show_reply=off&show_retweet=off" />
 </div>
-  
 
-<div style="display: inline_block"><br>
-    <img alt="Léo-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-    <img alt="Léo-Html5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"/>
-    <img alt="Léo-Css3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg"/>
-    <img alt="Léo-php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"/>
-    <img alt="Léo-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/>
-    <img alt="Léo-Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
-</div>
+
+<br><br>
+
+![Contribution](https://activity-graph.herokuapp.com/graph?username=leorosa123&theme=gotham&hide_border=true&area=true)
+
+<br><br>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=leorosa123&color=blue" alt="Profile views" /> </p>
+
+
 
