@@ -31,9 +31,6 @@
 
 <br><br>
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=leorosa123&theme=gotham&hide_border=true&area=true)
-
-<br><br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=leorosa123&color=blue" alt="Profile views" /> </p>
 
 
