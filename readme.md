@@ -23,15 +23,6 @@
 
 
 
-## 🧑‍ &nbsp;Social Mídia
-<div align="center">
-<img width="400em" src="https://github-readme-twitter-gazf.vercel.app/api?id=rosa21_leo&layout=wide&show_reply=off&show_retweet=off" />
-</div>
-
-
-<br><br>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=leorosa123&color=blue" alt="Profile views" /> </p>
 
 
 
