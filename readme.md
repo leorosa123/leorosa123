@@ -3,6 +3,15 @@
 
 
 
+## ⚙️ &nbsp;GitHub Analytics
+<p align="center">
+ 
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=leorosa123&show_icons=true&theme=tokyonight" alt="Léo Rosa Status"/>
+ <br>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leorosa123&layout=compact&theme=tokyonight" alt="Léo Rosa most languages"/>
+</p>
+
+
 ## 🛠 &nbsp;Tech Stack
 
 ![html5](https://img.shields.io/badge/-html5-05122A?style=flat&logo=html5)&nbsp;
